@@ -1,0 +1,209 @@
+html{
+ scroll-behavior: smooth;
+}
+*{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#color{
+    background-color: rgba(18, 52, 83, 0.76)  !important; 
+}
+.navbar-brand{
+    font-weight: bold;
+    font-size: 70px;
+}
+.contacto{
+    font-size: 28px;
+    align-items: center;
+    align-content: center;
+    text-align: left;
+}
+.img-logo{
+    text-align: right;
+    align-content: flex-end;
+    align-content: flex-end;
+    display: flexbox;
+}
+.primerimagen{
+    background-image: url(assets/images/fondo2.jpeg);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.subtitulo{
+    font-size: 24px;
+    font-weight: 200;
+    text-align: left;
+    padding-left: 25px;
+    padding-right: 25px;
+    color: rgb(0, 0, 0);
+}
+#titulo{
+    font-size: 32px;
+    font-weight: 400;
+    text-align: center;
+    color: white;
+    line-height: 50px;
+}
+
+.principal{
+    background-image: url(assets/images/fondo2.jpeg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.principal4{
+    background-image: url(assets/images/fondo2.jpeg);
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.seguridad{
+    font-size: 32px;
+    font-weight: 400;
+    text-align: center;
+    color: white;
+    line-height: 150px;
+}
+.blanco{
+    height: 250px;
+    background-color: white;
+}
+.blanco3{
+    height: 150px;
+    background-color: white;
+}
+.mision{
+    background-image: url(assets/images/fondo3.jpeg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.texto-mision{
+    font-size: 32px;
+    font-weight: 400;
+    text-align: center;
+    color: white;
+    line-height: 100px;
+}
+.subtitulo2{
+    font-size: 20px;
+    font-weight: 200;
+    text-align: left;
+    padding-left: 25px;
+    padding-right: 25px;
+    color: rgb(255, 255, 255);
+}.principal2{
+    background-image: url(assets/images/fondo2.jpeg);
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.subtitulo3{
+    font-size: 20px;
+    font-weight: 200;
+    text-align: center;
+    padding-left: 25px;
+    padding-right: 25px;
+    color: rgb(0, 0, 0);
+}
+.seguridad1{
+    font-size: 32px;
+    font-weight: 400;
+    text-align: center;
+    color: white;
+    line-height: 200px;
+}
+.okey{
+    height: 40px;
+    background-color: yellowgreen;
+}
+.uno{
+    background-color: rgba(2, 2, 2, 0.685);
+    border-radius: 15px;
+    margin: 25px;
+    
+}
+.dos{
+    background-color: rgba(2, 2, 2, 0.685);
+    border-radius: 15px;
+    margin: 25px;
+}
+.tres{
+    background-color: rgba(2, 2, 2, 0.685);
+    border-radius: 15px;
+    margin: 25px;
+}
+.cuatro{
+    background-color: rgba(2, 2, 2, 0.685);
+    border-radius: 15px;
+    margin: 25px;
+}
+.cont{
+    background-image: url(assets/images/fondo1.jpeg);
+    height: 900px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logo{
+    size: 40px;
+}
+
+.img-ts{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 30%;
+}
+.boton{
+    background-color: rgba(2, 2, 2, 0.904);
+    color: white;
+    text-align: center;
+    font-size: 24px;
+  
+}
+.fijar{
+    
+}
+.blanco2{
+    height: 75px;
+    background-color: white;
+}
+.subtitulo4{
+    font-size: 24px;
+    font-weight: 200;
+    text-align: center;
+    padding-left: 25px;
+    padding-right: 25px;
+    color: rgb(0, 0, 0);
+    line-height: 75px;
+}
+.txtfin{
+    color:white;
+    font-size: 32px;
+}
+#ok{
+    color:white;
+    font-size: 32px;
+    text-align: left;
+    align-items: flex-end;
+}
+.gotop{
+position: fixed;
+width: 50px;
+height: 50px;
+background-color: rgb(18, 52, 83);
+bottom: 40px;
+right: 50px;    
+text-decoration: none;
+text-align: center;
+line-height: 50px;
+color: white;
+font-size: 20px;
+}
+okx{
+    height: 50px;
+    width: 50px;
+    background-color: white;
+}
