@@ -1,6 +1,6 @@
 html{
  scroll-behavior: smooth;
-}
+ overflow-x: hidden;}
 *{
     font-family: 'Poppins', sans-serif;
     margin: 0;
@@ -18,7 +18,7 @@ html{
     font-size: 28px;
     align-items: center;
     align-content: center;
-    text-align: left;
+    text-align: center;
 }
 .img-logo{
     text-align: right;
@@ -28,7 +28,7 @@ html{
 }
 .primerimagen{
     background-image: url(assets/images/fondo2.jpeg);
-    width: 100%;
+    width: auto;
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -50,7 +50,7 @@ html{
 
 .principal{
     background-image: url(assets/images/fondo2.jpeg);
-    height: 100vh;
+    height: auto;
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -68,16 +68,21 @@ html{
     line-height: 150px;
 }
 .blanco{
-    height: 250px;
+     height: auto;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
     background-color: white;
 }
 .blanco3{
-    height: 150px;
+    height: auto;
+    width: 100%;
     background-color: white;
 }
 .mision{
     background-image: url(assets/images/fondo3.jpeg);
-    height: 100vh;
+    height: 100%;
+    width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -143,7 +148,8 @@ html{
 }
 .cont{
     background-image: url(assets/images/fondo1.jpeg);
-    height: 900px;
+    height: auto;
+    width: auto;
     background-repeat: no-repeat;
     background-size: cover;
 }
