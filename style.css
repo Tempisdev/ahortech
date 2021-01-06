@@ -187,7 +187,8 @@ html{
 }
 .txtfin{
     color:white;
-    font-size: 32px;
+    font-size: 24px;
+    text-align: left;
 }
 #ok{
     color:white;
